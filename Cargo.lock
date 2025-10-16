@@ -48,7 +48,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rust_tasksssss_parser_sasha"
+name = "rust_task_sasha_kma"
 version = "0.1.0"
 dependencies = [
  "peg",
